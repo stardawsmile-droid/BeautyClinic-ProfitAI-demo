@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrainCircuit, Loader2, Sparkles, TrendingUp, AlertTriangle } from 'lucide-react';
+import { BrainCircuit, Loader2, Sparkles, TrendingUp } from 'lucide-react';
 import { analyzeProfitability } from '../services/geminiService';
 import { ServiceData } from '../types';
 import ReactMarkdown from 'react-markdown';

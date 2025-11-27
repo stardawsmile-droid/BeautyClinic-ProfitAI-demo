@@ -4,7 +4,7 @@ import { StatCard } from './components/StatCard';
 import { DataTable } from './components/DataTable';
 import { AIAdvisor } from './components/AIAdvisor';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-import { LayoutDashboard, Stethoscope } from 'lucide-react';
+import { Stethoscope } from 'lucide-react';
 
 const App: React.FC = () => {
   // In a real app, this state would come from an API/Database
